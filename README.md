@@ -1,6 +1,6 @@
 Credit to creators:
 
-- Diji Aderogba https://www.instagram.com/Dijiaderogba/#
+- Photo by Diji Aderogba https://www.instagram.com/Dijiaderogba/#
 
 - Photo by antonio filigno: https://www.pexels.com/photo/grayscale-photo-of-a-statue-7524401/
 
