@@ -56,7 +56,7 @@ body {
   justify-content: center;
 }
 
-button {
+.hero-text button {
   background-color: #3882f6;
   color: #f9faf8;
   font-weight: 700;
@@ -120,4 +120,39 @@ button {
   margin-right: 550px;
   font-weight: 700;
   font-size: 30px;
+}
+
+.action {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 100px 350px;
+  padding: 50px 200px;
+  border-radius: 20px;
+  background-color: #3882f6;
+}
+
+.action div p {
+  color: #e5e7eb;
+}
+
+.action button {
+  background-color: #3882f6;
+  color: #f9faf8;
+  font-weight: 700;
+  font-size: 20px;
+  padding: 10px 30px;
+  border-radius: 20px;
+  border-color: #f9faf8;
+  border-style: solid;
+  height: fit-content;
+  width: fit-content;
+}
+
+.footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  font-size: 26px;
+  padding: 50px;
+  text-align: center;
 }
